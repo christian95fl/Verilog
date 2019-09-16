@@ -1,0 +1,9 @@
+set_io clk_in J3
+set_io D0  B5  # output
+set_io D1  B4  # output
+set_io D2  A2  # output
+set_io D3  A1  # output
+set_io D4  C5  # output
+set_io D5  C4  # output
+set_io D6  B3  # output
+set_io D7  C3  # output
