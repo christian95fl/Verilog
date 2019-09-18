@@ -6,7 +6,7 @@ module sr (clk, data);
   reg load = 0;
 
   parameter  N = 20;
-  parameter din = 1;
+  parameter din = 7;
 
 
   prescaler #(.N(N))
