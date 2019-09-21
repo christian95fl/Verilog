@@ -1,0 +1,9 @@
+set_io clk J3
+set_io dato[0]  B5  # output
+set_io dato[1]  B4  # output
+set_io dato[2]  A2  # output
+set_io dato[3]  A1  # output
+set_io dato[4]  C5  # output
+set_io dato[5]  C4  # output
+set_io dato[6]  B3  # output
+set_io dato[7]  C3  # output

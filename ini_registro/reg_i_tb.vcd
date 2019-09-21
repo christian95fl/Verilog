@@ -1,0 +1,161 @@
+$date
+	Thu Sep 19 21:35:54 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module reg_i_tb $end
+$var wire 8 ! data [7:0] $end
+$var reg 1 " clk $end
+$scope module test $end
+$var wire 1 " clk $end
+$var wire 8 # dato [7:0] $end
+$var wire 8 $ din [7:0] $end
+$var wire 1 % clk_base $end
+$var reg 8 & dout [7:0] $end
+$var reg 1 ' sel $end
+$scope module PRE $end
+$var wire 1 " clk_in $end
+$var wire 1 % clk_out $end
+$var reg 1 ( count $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0(
+0'
+bx &
+0%
+b1111 $
+bx #
+0"
+bx !
+$end
+#1
+b11110000 $
+b1111 !
+b1111 #
+b1111 &
+1'
+1%
+1(
+1"
+#2
+0"
+#3
+0%
+0(
+1"
+#4
+0"
+#5
+b1111 $
+b11110000 !
+b11110000 #
+b11110000 &
+1%
+1(
+1"
+#6
+0"
+#7
+0%
+0(
+1"
+#8
+0"
+#9
+b11110000 $
+b1111 !
+b1111 #
+b1111 &
+1%
+1(
+1"
+#10
+0"
+#11
+0%
+0(
+1"
+#12
+0"
+#13
+b1111 $
+b11110000 !
+b11110000 #
+b11110000 &
+1%
+1(
+1"
+#14
+0"
+#15
+0%
+0(
+1"
+#16
+0"
+#17
+b11110000 $
+b1111 !
+b1111 #
+b1111 &
+1%
+1(
+1"
+#18
+0"
+#19
+0%
+0(
+1"
+#20
+0"
+#21
+b1111 $
+b11110000 !
+b11110000 #
+b11110000 &
+1%
+1(
+1"
+#22
+0"
+#23
+0%
+0(
+1"
+#24
+0"
+#25
+b11110000 $
+b1111 !
+b1111 #
+b1111 &
+1%
+1(
+1"
+#26
+0"
+#27
+0%
+0(
+1"
+#28
+0"
+#29
+b1111 $
+b11110000 !
+b11110000 #
+b11110000 &
+1%
+1(
+1"
+#30
+0"
