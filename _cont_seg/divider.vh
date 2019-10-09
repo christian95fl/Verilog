@@ -15,7 +15,3 @@
 `define F_3Hz   4000000
 `define F_2Hz   6000000
 `define F_1Hz   12000000
-
-`define T_1s     12000000
-`define T_500ms  6000000
-`define T_250ms  3000000
